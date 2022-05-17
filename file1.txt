@@ -1,9 +1,3 @@
 123
-line test
-commit test
-test
 456
 789
-add line
-new branch line
-3333
